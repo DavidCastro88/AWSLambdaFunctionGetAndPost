@@ -1,5 +1,6 @@
-# AWS Lambda Function for Handling GET and POST Requests
 [![AWS](https://img.shields.io/badge/AWS-Amazon%20Web%20Services-orange)](https://aws.amazon.com/)
+
+# AWS Lambda Function for Handling GET and POST Requests
 
 This repository contains an AWS Lambda function designed to handle HTTP GET and POST requests. The function is configured to authenticate requests using an API key and route them based on the HTTP method and request path.
 
